@@ -1,0 +1,40 @@
+C:\PF\anaconda3_5.0.1\envs\tensorflow\python.exe "C:/TP/sortware data/python/gcForest-master/examples/myTest.py"
+Using TensorFlow backend.
+[ 2018-07-31 02:47:13,278][cascade_classifier.fit_transform] X_groups_train.shape=[(120, 1, 5, 80, 5)],y_train.shape=(120,),X_groups_test.shape=no_test,y_test.shape=no_test
+[ 2018-07-31 02:47:13,280][cascade_classifier.fit_transform] group_dims=[2000]
+[ 2018-07-31 02:47:13,280][cascade_classifier.fit_transform] group_starts=[0]
+[ 2018-07-31 02:47:13,280][cascade_classifier.fit_transform] group_ends=[2000]
+[ 2018-07-31 02:47:13,280][cascade_classifier.fit_transform] X_train.shape=(120, 2000),X_test.shape=(0, 2000)
+[ 2018-07-31 02:47:13,282][cascade_classifier.fit_transform] [layer=0] look_indexs=[0], X_cur_train.shape=(120, 2000), X_cur_test.shape=(0, 2000)
+[ 2018-07-31 02:47:13,989][cascade_classifier.fit_transform] [layer=1] look_indexs=[0], X_cur_train.shape=(120, 2032), X_cur_test.shape=(0, 2032)
+[ 2018-07-31 02:47:14,442][cascade_classifier.fit_transform] [layer=2] look_indexs=[0], X_cur_train.shape=(120, 2032), X_cur_test.shape=(0, 2032)
+[ 2018-07-31 02:47:14,889][cascade_classifier.fit_transform] [layer=3] look_indexs=[0], X_cur_train.shape=(120, 2032), X_cur_test.shape=(0, 2032)
+[ 2018-07-31 02:47:15,336][cascade_classifier.fit_transform] [layer=4] look_indexs=[0], X_cur_train.shape=(120, 2032), X_cur_test.shape=(0, 2032)
+[ 2018-07-31 02:47:15,777][cascade_classifier.fit_transform] [layer=5] look_indexs=[0], X_cur_train.shape=(120, 2032), X_cur_test.shape=(0, 2032)
+[ 2018-07-31 02:47:16,206][cascade_classifier.fit_transform] [layer=6] look_indexs=[0], X_cur_train.shape=(120, 2032), X_cur_test.shape=(0, 2032)
+[ 2018-07-31 02:47:16,659][cascade_classifier.fit_transform] [layer=7] look_indexs=[0], X_cur_train.shape=(120, 2032), X_cur_test.shape=(0, 2032)
+[ 2018-07-31 02:47:17,110][cascade_classifier.fit_transform] [layer=8] look_indexs=[0], X_cur_train.shape=(120, 2032), X_cur_test.shape=(0, 2032)
+[ 2018-07-31 02:47:17,558][cascade_classifier.fit_transform] [layer=9] look_indexs=[0], X_cur_train.shape=(120, 2032), X_cur_test.shape=(0, 2032)
+[ 2018-07-31 02:47:18,007][cascade_classifier.fit_transform] [layer=10] look_indexs=[0], X_cur_train.shape=(120, 2032), X_cur_test.shape=(0, 2032)
+[ 2018-07-31 02:47:18,449][cascade_classifier.fit_transform] [layer=11] look_indexs=[0], X_cur_train.shape=(120, 2032), X_cur_test.shape=(0, 2032)
+[ 2018-07-31 02:47:18,883][cascade_classifier.fit_transform] [layer=12] look_indexs=[0], X_cur_train.shape=(120, 2032), X_cur_test.shape=(0, 2032)
+[ 2018-07-31 02:47:19,327][cascade_classifier.fit_transform] [layer=13] look_indexs=[0], X_cur_train.shape=(120, 2032), X_cur_test.shape=(0, 2032)
+[ 2018-07-31 02:47:19,771][cascade_classifier.fit_transform] [layer=14] look_indexs=[0], X_cur_train.shape=(120, 2032), X_cur_test.shape=(0, 2032)
+[ 2018-07-31 02:47:20,212][cascade_classifier.fit_transform] [layer=15] look_indexs=[0], X_cur_train.shape=(120, 2032), X_cur_test.shape=(0, 2032)
+[ 2018-07-31 02:47:20,669][cascade_classifier.transform] X_groups_test.shape=[(1, 1, 5, 80, 5)]
+[ 2018-07-31 02:47:20,670][cascade_classifier.transform] group_dims=[2000]
+[ 2018-07-31 02:47:20,670][cascade_classifier.transform] X_test.shape=(1, 2000)
+[ 2018-07-31 02:47:20,670][cascade_classifier.transform] [layer=0] look_indexs=[0], X_cur_test.shape=(1, 2000)
+[ 2018-07-31 02:47:20,675][cascade_classifier.transform] X_groups_test.shape=[(1, 1, 5, 80, 5)]
+y_pred: [5]
+[ 2018-07-31 02:47:20,676][cascade_classifier.transform] group_dims=[2000]
+[ 2018-07-31 02:47:20,676][cascade_classifier.transform] X_test.shape=(1, 2000)
+[ 2018-07-31 02:47:20,676][cascade_classifier.transform] [layer=0] look_indexs=[0], X_cur_test.shape=(1, 2000)
+y_pred: [5]
+[ 2018-07-31 02:47:23,640][cascade_classifier.transform] X_groups_test.shape=[(1, 1, 5, 80, 5)]
+[ 2018-07-31 02:47:23,640][cascade_classifier.transform] group_dims=[2000]
+[ 2018-07-31 02:47:23,640][cascade_classifier.transform] X_test.shape=(1, 2000)
+[ 2018-07-31 02:47:23,640][cascade_classifier.transform] [layer=0] look_indexs=[0], X_cur_test.shape=(1, 2000)
+y_pred: [5]
+
+Process finished with exit code 0

@@ -1,0 +1,250 @@
+continent,name,ISO 2,ISO 3,Internet
+AS,Afghanistan,?AF?,AFG,.af
+EU,?land Islands,?AX?,ALA,.ax
+EU,Albania,?AL?,ALB,.al
+AF,Algeria,?DZ?,DZA,.dz
+OC,American Samoa,?AS?,ASM,.as
+EU,Andorra,?AD?,AND,.ad
+AF,Angola,?AO?,AGO,.ao
+NA,Anguilla,?AI?,AIA,.ai
+AN,Antarctica,?AQ?,ATA,.aq
+NA,Antigua and Barbuda,?AG?,ATG,.ag
+SA,Argentina,?AR?,ARG,.ar
+AS,Armenia,?AM?,ARM,.am
+NA,Aruba,?AW?,ABW,.aw
+OC,Australia,?AU?,AUS,.au
+EU,Austria,?AT?,AUT,.at
+AS,Azerbaijan,?AZ?,AZE,.az
+NA,Bahamas,?BS?,BHS,.bs
+AS,Bahrain,?BH?,BHR,.bh
+AS,Bangladesh,?BD?,BGD,.bd
+NA,Barbados,?BB?,BRB,.bb
+EU,Belarus,?BY?,BLR,.by
+EU,Belgium,?BE?,BEL,.be
+NA,Belize,?BZ?,BLZ,.bz
+AF,Benin,?BJ?,BEN,.bj
+NA,Bermuda,?BM?,BMU,.bm
+AS,Bhutan,?BT?,BTN,.bt
+SA,Bolivia,?BO?,BOL,.bo
+NA,"Bonaire, Sint Eustatius and Saba",?BQ?,BES,.bq
+EU,Bosnia and Herzegovina,?BA?,BIH,.ba
+AF,Botswana,?BW?,BWA,.bw
+AN,Bouvet Island,?BV?,BVT,.bv
+SA,Brazil,?BR?,BRA,.br
+AS,British Indian Ocean Territory,?IO?,IOT,.io
+AS,Brunei Darussalam,?BN?,BRN,.bn
+EU,Bulgaria,?BG?,BGR,.bg
+AF,Burkina Faso,?BF?,BFA,.bf
+AF,Burundi,?BI?,BDI,.bi
+AS,Cambodia,?KH?,KHM,.kh
+AF,Cameroon,?CM?,CMR,.cm
+NA,Canada,?CA?,CAN,.ca
+AF,Cape Verde,?CV?,CPV,.cv
+NA,Cayman Islands,?KY?,CYM,.ky
+AF,Central African Republic,?CF?,CAF,.cf
+AF,Chad,?TD?,TCD,.td
+SA,Chile,?CL?,CHL,.cl
+AS,China,?CN?,CHN,.cn
+AS,Christmas Island,?CX?,CXR,.cx
+AS,Cocos (Keeling) Islands,?CC?,CCK,.cc
+SA,Colombia,?CO?,COL,.co
+AF,Comoros,?KM?,COM,.km
+AF,"Congo, the Democratic Republic of the",?CD?,COD,.cd
+AF,Congo,?CG?,COG,.cg
+OC,Cook Islands,?CK?,COK,.ck
+NA,Costa Rica,?CR?,CRI,.cr
+AF,C?te d'Ivoire,?CI?,CIV,.ci
+EU,Croatia,?HR?,HRV,.hr
+NA,Cuba,?CU?,CUB,.cu
+NA,Cura?ao,?CW?,CUW,.cw
+AS,Cyprus,?CY?,CYP,.cy
+EU,Czech Republic,?CZ?,CZE,.cz
+EU,Denmark,?DK?,DNK,.dk
+AF,Djibouti,?DJ?,DJI,.dj
+NA,Dominica,?DM?,DMA,.dm
+NA,Dominican Republic,?DO?,DOM,.do
+SA,Ecuador,?EC?,ECU,.ec
+AF,Egypt,?EG?,EGY,.eg
+NA,El Salvador,?SV?,SLV,.sv
+AF,Equatorial Guinea,?GQ?,GNQ,.gq
+AF,Eritrea,?ER?,ERI,.er
+EU,Estonia,?EE?,EST,.ee
+AF,Ethiopia,?ET?,ETH,.et
+SA,Falkland Islands (Malvinas),?FK?,FLK,.fk
+EU,Faroe Islands,?FO?,FRO,.fo
+OC,Fiji,?FJ?,FJI,.fj
+EU,Finland,?FI?,FIN,.fi
+EU,France,?FR?,FRA,.fr
+SA,French Guiana,?GF?,GUF,.gf
+OC,French Polynesia,?PF?,PYF,.pf
+AN,French Southern Territories,?TF?,ATF,.tf
+AF,Gabon,?GA?,GAB,.ga
+AF,Gambia,?GM?,GMB,.gm
+AS,Georgia,?GE?,GEO,.ge
+EU,Germany,?DE?,DEU,.de
+AF,Ghana,?GH?,GHA,.gh
+EU,Gibraltar,?GI?,GIB,.gi
+EU,Greece,?GR?,GRC,.gr
+NA,Greenland,?GL?,GRL,.gl
+NA,Grenada,?GD?,GRD,.gd
+NA,Guadeloupe,?GP?,GLP,.gp
+OC,Guam,?GU?,GUM,.gu
+NA,Guatemala,?GT?,GTM,.gt
+EU,Guernsey,?GG?,GGY,.gg
+AF,Guinea-Bissau,?GW?,GNB,.gw
+AF,Guinea,?GN?,GIN,.gn
+SA,Guyana,?GY?,GUY,.gy
+NA,Haiti,?HT?,HTI,.ht
+AN,Heard Island and McDonald Islands,?HM?,HMD,.hm
+EU,Holy See (Vatican City State),?VA?,VAT,.va
+NA,Honduras,?HN?,HND,.hn
+AS,Hong Kong,?HK?,HKG,.hk
+EU,Hungary,?HU?,HUN,.hu
+EU,Iceland,?IS?,ISL,.is
+AS,India,?IN?,IND,.in
+AS,Indonesia,?ID?,IDN,.id
+AS,"Iran, Islamic Republic of",?IR?,IRN,.ir
+AS,Iraq,?IQ?,IRQ,.iq
+EU,Ireland,?IE?,IRL,.ie
+EU,Isle of Man,?IM?,IMN,.im
+AS,Israel,?IL?,ISR,.il
+EU,Italy,?IT?,ITA,.it
+NA,Jamaica,?JM?,JAM,.jm
+AS,Japan,?JP?,JPN,.jp
+EU,Jersey,?JE?,JEY,.je
+AS,Jordan,?JO?,JOR,.jo
+AS,Kazakhstan,?KZ?,KAZ,.kz
+AF,Kenya,?KE?,KEN,.ke
+OC,Kiribati,?KI?,KIR,.ki
+AS,"Korea, Democratic People's Republic of",?KP?,PRK,.kp
+AS,"Korea, Republic of",?KR?,KOR,.kr
+AS,Kuwait,?KW?,KWT,.kw
+AS,Kyrgyzstan,?KG?,KGZ,.kg
+AS,Lao People's Democratic Republic,?LA?,LAO,.la
+EU,Latvia,?LV?,LVA,.lv
+AS,Lebanon,?LB?,LBN,.lb
+AF,Lesotho,?LS?,LSO,.ls
+AF,Liberia,?LR?,LBR,.lr
+AF,Libyan Arab Jamahiriya,?LY?,LBY,.ly
+EU,Liechtenstein,?LI?,LIE,.li
+EU,Lithuania,?LT?,LTU,.lt
+EU,Luxembourg,?LU?,LUX,.lu
+AS,Macao,?MO?,MAC,.mo
+EU,"Macedonia, the Former Yugoslav Republic of",?MK?,MKD,.mk
+AF,Madagascar,?MG?,MDG,.mg
+AF,Malawi,?MW?,MWI,.mw
+AS,Malaysia,?MY?,MYS,.my
+AS,Maldives,?MV?,MDV,.mv
+AF,Mali,?ML?,MLI,.ml
+EU,Malta,?MT?,MLT,.mt
+OC,Marshall Islands,?MH?,MHL,.mh
+NA,Martinique,?MQ?,MTQ,.mq
+AF,Mauritania,?MR?,MRT,.mr
+AF,Mauritius,?MU?,MUS,.mu
+AF,Mayotte,?YT?,MYT,.yt
+NA,Mexico,?MX?,MEX,.mx
+OC,"Micronesia, Federated States of",?FM?,FSM,.fm
+EU,"Moldova, Republic of",?MD?,MDA,.md
+EU,Monaco,?MC?,MCO,.mc
+AS,Mongolia,?MN?,MNG,.mn
+EU,Montenegro,?ME?,MNE,.me
+NA,Montserrat,?MS?,MSR,.ms
+AF,Morocco,?MA?,MAR,.ma
+AF,Mozambique,?MZ?,MOZ,.mz
+AS,Myanmar,?MM?,MMR,.mm
+AF,Namibia,?NA?,NAM,.na
+OC,Nauru,?NR?,NRU,.nr
+AS,Nepal,?NP?,NPL,.np
+EU,Netherlands,?NL?,NLD,.nl
+OC,New Caledonia,?NC?,NCL,.nc
+OC,New Zealand,?NZ?,NZL,.nz
+NA,Nicaragua,?NI?,NIC,.ni
+AF,Nigeria,?NG?,NGA,.ng
+AF,Niger,?NE?,NER,.ne
+OC,Niue,?NU?,NIU,.nu
+OC,Norfolk Island,?NF?,NFK,.nf
+OC,Northern Mariana Islands,?MP?,MNP,.mp
+EU,Norway,?NO?,NOR,.no
+AS,Oman,?OM?,OMN,.om
+AS,Pakistan,?PK?,PAK,.pk
+OC,Palau,?PW?,PLW,.pw
+AS,"Palestinian Territory, Occupied",?PS?,PSE,.ps
+NA,Panama,?PA?,PAN,.pa
+OC,Papua New Guinea,?PG?,PNG,.pg
+SA,Paraguay,?PY?,PRY,.py
+SA,Peru,?PE?,PER,.pe
+AS,Philippines,?PH?,PHL,.ph
+OC,Pitcairn,?PN?,PCN,.pn
+EU,Poland,?PL?,POL,.pl
+EU,Portugal,?PT?,PRT,.pt
+NA,Puerto Rico,?PR?,PRI,.pr
+AS,Qatar,?QA?,QAT,.qa
+AF,R¨¦union,?RE?,REU,.re
+EU,Romania,?RO?,ROU,.ro
+EU,Russian Federation,?RU?,RUS,.ru
+AF,Rwanda,?RW?,RWA,.rw
+NA,Saint Barth¨¦lemy,?BL?,BLM,.bl
+AF,Saint Helena,?SH?,SHN,.sh
+NA,Saint Kitts and Nevis,?KN?,KNA,.kn
+NA,Saint Lucia,?LC?,LCA,.lc
+NA,Saint Martin (French part),?MF?,MAF,.mf
+NA,Saint Pierre and Miquelon,?PM?,SPM,.pm
+NA,Saint Vincent and the Grenadines,?VC?,VCT,.vc
+OC,Samoa,?WS?,WSM,.ws
+EU,San Marino,?SM?,SMR,.sm
+AF,Sao Tome and Principe,?ST?,STP,.st
+AS,Saudi Arabia,?SA?,SAU,.sa
+AF,Senegal,?SN?,SEN,.sn
+EU,Serbia,?RS?,SRB,.rs
+AF,Seychelles,?SC?,SYC,.sc
+AF,Sierra Leone,?SL?,SLE,.sl
+AS,Singapore,?SG?,SGP,.sg
+NA,Sint Maarten (Dutch part),?SX?,SXM,.sx
+EU,Slovakia,?SK?,SVK,.sk
+EU,Slovenia,?SI?,SVN,.si
+OC,Solomon Islands,?SB?,SLB,.sb
+AF,Somalia,?SO?,SOM,.so
+AF,South Africa,?ZA?,ZAF,.za
+AN,South Georgia and the South Sandwich Islands,?GS?,SGS,.gs
+AF,South Sudan,?SS?,SSD,.ss
+EU,Spain,?ES?,ESP,.es
+AS,Sri Lanka,?LK?,LKA,.lk
+AF,Sudan,?SD?,SDN,.sd
+SA,Suriname,?SR?,SUR,.sr
+EU,Svalbard and Jan Mayen,?SJ?,SJM,.sj
+AF,Swaziland,?SZ?,SWZ,.sz
+EU,Sweden,?SE?,SWE,.se
+EU,Switzerland,?CH?,CHE,.ch
+AS,Syrian Arab Republic,?SY?,SYR,.sy
+AS,"Taiwan, Province of China",?TW?,TWN,.tw
+AS,Tajikistan,?TJ?,TJK,.tj
+AF,"Tanzania, United Republic of",?TZ?,TZA,.tz
+AS,Thailand,?TH?,THA,.th
+AS,Timor-Leste,?TL?,TLS,.tl
+AF,Togo,?TG?,TGO,.tg
+OC,Tokelau,?TK?,TKL,.tk
+OC,Tonga,?TO?,TON,.to
+NA,Trinidad and Tobago,?TT?,TTO,.tt
+AF,Tunisia,?TN?,TUN,.tn
+EU,Turkey,?TR?,TUR,.tr
+AS,Turkmenistan,?TM?,TKM,.tm
+NA,Turks and Caicos Islands,?TC?,TCA,.tc
+OC,Tuvalu,?TV?,TUV,.tv
+AF,Uganda,?UG?,UGA,.ug
+EU,Ukraine,?UA?,UKR,.ua
+AS,United Arab Emirates,?AE?,ARE,.ae
+EU,United Kingdom,?GB?,GBR,.uk
+OC,United States Minor Outlying Islands,?UM?,UMI,.um
+NA,United States,?US?,USA,.us
+SA,Uruguay,?UY?,URY,.uy
+AS,Uzbekistan,?UZ?,UZB,.uz
+OC,Vanuatu,?VU?,VUT,.vu
+SA,Venezuela,?VE?,VEN,.ve
+AS,Vietnam,?VN?,VNM,.vn
+NA,"Virgin Islands, British",?VG?,VGB,.vg
+NA,"Virgin Islands, U.S.",?VI?,VIR,.vi
+OC,Wallis and Futuna,?WF?,WLF,.wf
+AF,Western Sahara,?EH?,ESH,.eh
+AS,Yemen,?YE?,YEM,.ye
+AF,Zambia,?ZM?,ZMB,.zm
+AF,Zimbabwe,?ZW?,ZWE,.zw
